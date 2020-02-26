@@ -4,7 +4,7 @@ from colorama import Fore, Back, Style
 banner = """
  ____________________________________________________
 |                                                    |
-| [--] Name: SMS Bomber by DEDSEC PRO                                 |
+| [--] Name: SMS Bomber by DEDSEC PRO                |
 |                                                    |
 | [--] Have Services: 51                             |
 |                                                    |
